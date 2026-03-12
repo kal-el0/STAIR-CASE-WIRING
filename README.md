@@ -1,6 +1,6 @@
 # STAIR-CASE-WIRING
-### Name: vishwa J
-### Reg no:212223080060
+### Name: M Yuvan Raj
+### Reg no:212223080062
 AIM
 To control the status of the given lamp by using two – way switches.
 
